@@ -12,6 +12,10 @@ response = "YOUR_BASIC_COMMENT"
 (в таком случает будет сложно составить комментарий к посту оновываясь на его содержимом)
 или ни один из хостов не ответит (на всякий случай)
 """
+"""Your basic comment, if there are less than 5 words in the post
+(in this case it will be difficult to make a comment on the post based on its contents)
+or none of the hosts will respond (just in case)
+"""
 
 
 providers = [g4f.Provider.GPTalk, g4f.Provider.GeekGpt, g4f.Provider.AiAsk,
