@@ -16,8 +16,8 @@ This project is a script for interacting with VKontakte (VK) groups through thei
 1. Install Python if you haven't already.
 2. Install necessary dependencies using the following commands:
     ```bash
-    pip install vk-api
-    pip install g4f
+    pip install vk-api==11.9.9
+    pip install g4f==0.3.2.4
     ```
 3. Download the `config.py` file from the repository and replace the following data in it:
     ```python
