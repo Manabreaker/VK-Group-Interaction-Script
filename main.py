@@ -1,6 +1,5 @@
 import vk_api
 from config import *
-import vk_api
 import g4f
 import time
 
